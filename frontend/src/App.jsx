@@ -1,7 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 
-const API = "https://reconciliation-app-2.onrender.com/";
-
+const API = "http://127.0.0.1:8000/api";
 const reasonLabels = {
   all: "All reasons",
   missing_in_b: "Missing in B",
