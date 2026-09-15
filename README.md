@@ -196,6 +196,7 @@ python manage.py test
 
 The test suite covers the four required disagreement types plus tenant isolation.
 # Reconciliation-app
+While we running first backend links should be run after that only frontend will fetch the data from backend.
 The deployment links 
 Backend Links - https://reconciliation-app-4.onrender.com/
 for organizations - https://reconciliation-app-4.onrender.com/api/organizations/
