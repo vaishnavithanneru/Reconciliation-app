@@ -196,3 +196,10 @@ python manage.py test
 
 The test suite covers the four required disagreement types plus tenant isolation.
 # Reconciliation-app
+The deployment links 
+Backend Links - https://reconciliation-app-4.onrender.com/
+for organizations - https://reconciliation-app-4.onrender.com/api/organizations/
+for seperate organizations data base in json  - https://reconciliation-app-4.onrender.com/api/disagreements/?org_id=ORG-A
+for org - b - https://reconciliation-app-4.onrender.com/api/disagreements/?org_id=ORG-B
+
+Frontend app - https://reconciliation-app-fdpe.vercel.app/
